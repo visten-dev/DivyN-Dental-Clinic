@@ -1,0 +1,6 @@
+{
+  "name": "DivyN – The DENTIST",
+  "description": "Premium Dental Clinic in Sithalapakkam, Chennai - Advanced, Painless & Luxurious Dental Care",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
